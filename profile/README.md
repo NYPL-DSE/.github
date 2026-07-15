@@ -17,16 +17,3 @@
 ---
 
 We build and maintain the tools, automation, and infrastructure that keep NYPL's IT operations running. Our focus is on reducing manual work, improving endpoint management, and giving staff reliable self-service tools.
-
-## Repositories
-
-| Repository | Description | Language |
-|---|---|---|
-| **halo-portal** | HALO Utility Portal — Internal IT operations and infrastructure management platform. Pode + PowerShell + SQL Server. | PowerShell |
-| **macOSScripts** | Automation and management scripts for NYPL's macOS fleet. | Shell |
-| **SysAdmin-Toolkit** | A central toolkit of automation and interactive scripts for managing NYPL users, workstations, apps, and integrations. | PowerShell |
-| **LAPS-Tool** | A PowerShell-based utility for managing Local Administrator Password Solution (LAPS) and endpoint compliance. | PowerShell |
-
-## Contact
-
-**Client Technology Engineering** — for questions, access requests, or bug reports, reach us at [cte@nypl.org](mailto:cte@nypl.org).
