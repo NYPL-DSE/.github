@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a90ac5b-f70b-4f6d-80cf-2b36f918baf8" alt="NYPL Desktop Services Engineering" width="80" />
+  <img src="https://github.com/user-attachments/assets/2a90ac5b-f70b-4f6d-80cf-2b36f918baf8" alt="NYPL Client Technology Engineering" width="80" />
 </p>
 
 <h1 align="center">Desktop Services Engineering</h1>
