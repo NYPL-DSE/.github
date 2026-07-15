@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/2a90ac5b-f70b-4f6d-80cf-2b36f918baf8" alt="NYPL Client Technology Engineering" width="80" />
 </p>
 
-<h1 align="center">Desktop Services Engineering</h1>
+<h1 align="center">Client Technology Engineering</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
@@ -29,4 +29,4 @@ We build and maintain the tools, automation, and infrastructure that keep NYPL's
 
 ## Contact
 
-**Desktop Services Engineering** — for questions, access requests, or bug reports, reach us at [dse@nypl.org](mailto:dse@nypl.org).
+**Client Technology Engineering** — for questions, access requests, or bug reports, reach us at [cte@nypl.org](mailto:cte@nypl.org).
